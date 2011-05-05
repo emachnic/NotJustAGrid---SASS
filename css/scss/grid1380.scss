@@ -1,0 +1,54 @@
+/* Not Just a Grid v1.0 (c) 2011 Al Redpath / Outrageous Creations! Licenced under an MIT Licence*/
+
+#container {
+  width: 1380px;
+  position: relative;
+  margin: auto; }
+
+.full, .half, .threequarter, .quarter, .third, .twothird, .fifth, .twofifth, .threefifth, .fourfifth, .sixth, .fivesixth {
+  float: left;
+  display: inline;
+  margin: 0px 10px 0px 10px;
+  padding: 0px; }
+
+.full {
+  width: 1360px; }
+
+.half {
+  width: 670px; }
+
+.threequarter {
+  width: 1015px; }
+
+.quarter {
+  width: 325px; }
+
+.third {
+  width: 440px; }
+
+.twothird {
+  width: 900px; }
+
+.fifth {
+  width: 256px; }
+
+.twofifth {
+  width: 532px; }
+
+.threefifth {
+  width: 808px; }
+
+.fourfifth {
+  width: 1084px; }
+
+.sixth {
+  width: 210px; }
+
+.fivesixth {
+  width: 1130px; }
+
+.first {
+  margin-left: 0px; }
+
+.last {
+  margin-right: 0px; }
