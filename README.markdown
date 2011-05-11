@@ -12,4 +12,10 @@ just copy either style of SASS files to public/stylesheets/sass in your
 application. Also, make sure you have the [HAML](https://github.com/nex3/haml)
 gem or [SASS](https://github.com/nex3/sass) gem in your Gemfile.
 
+## Note for Rails Apps
+
+I have tagged branches with v3.0.x and v3.1.x because of the new changes
+with Rails 3.1. Please use the respective branches otherwise the images
+won't load correctly.
+
 ## Enjoy!
