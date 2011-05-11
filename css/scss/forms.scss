@@ -21,7 +21,7 @@
     margin: 0px;
     border: 1px solid #888;
     padding: 3px 6px;
-    background: #eeeeee url(images/notjustagrid/transoverlay-matte.png) repeat-x;
+    background: #eeeeee url(notjustagrid/transoverlay-matte.png) repeat-x;
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -63,7 +63,7 @@
     margin: 0px;
     border: 1px solid #888;
     padding: 3px 6px;
-    background: #eeeeee url(images/notjustagrid/transoverlay-matte.png) repeat-x;
+    background: #eeeeee url(notjustagrid/transoverlay-matte.png) repeat-x;
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -99,17 +99,17 @@
   padding: 3px 2px 3px 2px; }
 
 .normalfield {
-  background: white url(../images/notjustagrid/misc/formgreyback.gif) repeat-x; }
+  background: white url(notjustagrid/misc/formgreyback.gif) repeat-x; }
 
 .requiredfield {
-  background: #fafad8 url(../images/notjustagrid/misc/formyellowback.gif) repeat-x top right; }
+  background: #fafad8 url(notjustagrid/misc/formyellowback.gif) repeat-x top right; }
 
 .fielderror {
   border: 1px solid #ff4444;
-  background: #fee9eb url(../images/notjustagrid/misc/formredback.gif) repeat-x top right; }
+  background: #fee9eb url(notjustagrid/misc/formredback.gif) repeat-x top right; }
 
 .fieldgood {
-  background: #e0ffc7 url(../images/notjustagrid/misc/formgreenback.gif) repeat-x; }
+  background: #e0ffc7 url(notjustagrid/misc/formgreenback.gif) repeat-x; }
 
 .requiredfield:focus, .fielderror:focus, .normalfield:forus {
   border: 1px solid #444444;
@@ -118,14 +118,14 @@
   box-shadow: 0px 0px 7px rgba(0, 144, 255, 0.7); }
 
 .requiredfield:focus {
-  background: #fafad8 url(../images/notjustagrid/misc/formyellowback.gif) repeat-x top right; }
+  background: #fafad8 url(notjustagrid/misc/formyellowback.gif) repeat-x top right; }
 
 .normalfield:focus {
-  background: #e0ffc7 url(../images/notjustagrid/misc/formgreenback.gif) repeat-x; }
+  background: #e0ffc7 url(notjustagrid/misc/formgreenback.gif) repeat-x; }
 
 .fielderror:focus {
   border: 1px solid #ff4444;
-  background: #fee9eb url(../images/notjustagrid/misc/formredback.gif) repeat-x top right; }
+  background: #fee9eb url(notjustagrid/misc/formredback.gif) repeat-x top right; }
 
 .smallfield {
   font: 10px;
@@ -139,7 +139,7 @@
 /* ---------------------------------------------------------------------------- */
 
 .styled_button {
-  background: #222222 url(../images/notjustagrid/misc/transoverlay-matte.png) repeat-x;
+  background: #222222 url(notjustagrid/misc/transoverlay-matte.png) repeat-x;
   font: bold 12px "Trebuchet MS", Arial, Helvetica,sans-serif;
   text-transform: uppercase;
   text-decoration: none;
@@ -162,7 +162,7 @@
   position: relative;
   cursor: pointer;
   &:visited {
-    background: #222222 url(../images/notjustagrid/misc/transoverlay-matte.png) repeat-x;
+    background: #222222 url(notjustagrid/misc/transoverlay-matte.png) repeat-x;
     font: bold 12px "Trebuchet MS", Arial, Helvetica,sans-serif;
     text-transform: uppercase;
     text-decoration: none;
@@ -208,22 +208,22 @@ a.styled_button {
   padding-right: 25px; }
 
 .cancel_button.styled_button:after {
-  content: url(../images/notjustagrid/icons/icon-cancel.png); }
+  content: url(notjustagrid/icons/icon-cancel.png); }
 
 .confirm_button.styled_button:after {
-  content: url(../images/notjustagrid/icons/icon-success.png); }
+  content: url(notjustagrid/icons/icon-success.png); }
 
 .question_button.styled_button:after {
-  content: url(../images/notjustagrid/icons/icon-question.png); }
+  content: url(notjustagrid/icons/icon-question.png); }
 
 .delete_button.styled_button:after {
-  content: url(../images/notjustagrid/icons/icon-delete.png); }
+  content: url(notjustagrid/icons/icon-delete.png); }
 
 .edit_button.styled_button:after {
-  content: url(../images/notjustagrid/icons/icon-edit.png); }
+  content: url(notjustagrid/icons/icon-edit.png); }
 
 .view_button.styled_button:after {
-  content: url(../images/notjustagrid/icons/icon-view.png); }
+  content: url(notjustagrid/icons/icon-view.png); }
 
 .green.styled_button {
   background-color: #afc243; }

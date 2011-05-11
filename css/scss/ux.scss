@@ -6,31 +6,31 @@
 a {
   &[href^='mailto:'] {
     padding-right: 10px;
-    background: transparent url(../images/notjustagrid/icons/icon-email-tiny.png) no-repeat right top; }
+    background: transparent url(notjustagrid/icons/icon-email-tiny.png) no-repeat right top; }
   &[href$='.pdf'] {
     padding-right: 10px;
-    background: transparent url(../images/notjustagrid/icons/icon-pdf-tiny.png) no-repeat right top; }
+    background: transparent url(notjustagrid/icons/icon-pdf-tiny.png) no-repeat right top; }
   &[href$='.xls'] {
     padding-right: 10px;
-    background: transparent url(../images/notjustagrid/icons/icon-excel-tiny.png) no-repeat right top; }
+    background: transparent url(notjustagrid/icons/icon-excel-tiny.png) no-repeat right top; }
   &[href$='.ppt'] {
     padding-right: 10px;
-    background: transparent url(../images/notjustagrid/icons/icon-powerpoint-tiny.png) no-repeat right top; }
+    background: transparent url(notjustagrid/icons/icon-powerpoint-tiny.png) no-repeat right top; }
   &[href$='.doc'] {
     padding-right: 10px;
-    background: transparent url(../images/notjustagrid/icons/icon-word-tiny.png) no-repeat right top; }
+    background: transparent url(notjustagrid/icons/icon-word-tiny.png) no-repeat right top; }
   &[href$='.rtf'], &[href$='.txt'] {
     padding-right: 10px;
-    background: transparent url(../images/notjustagrid/icons/icon-document-tiny.png) no-repeat right top; }
+    background: transparent url(notjustagrid/icons/icon-document-tiny.png) no-repeat right top; }
   &[href$='.wmv'], &[href$='.mov'], &[href$='.avi'], &[href$='.mpg'], &[href$='.swf'], &[href$='.flv'], &[href$='.f4v'] {
     padding-right: 10px;
-    background: transparent url(../images/notjustagrid/icons/icon-video-tiny.png) no-repeat right top; }
+    background: transparent url(notjustagrid/icons/icon-video-tiny.png) no-repeat right top; }
   &[href$='.rss'] {
     padding-right: 10px;
-    background: transparent url(../images/notjustagrid/icons/icon-rss-tiny.png) no-repeat right top; }
+    background: transparent url(notjustagrid/icons/icon-rss-tiny.png) no-repeat right top; }
   &[href$='.rm'] {
     padding-right: 10px;
-    background: transparent url(../images/notjustagrid/icons/icon-video-tiny.png) no-repeat right top; }
+    background: transparent url(notjustagrid/icons/icon-video-tiny.png) no-repeat right top; }
 }
 
 /* ---------------------------------------------------------------------------- */
@@ -53,25 +53,25 @@ a {
 
 .warning {
   border: 2px solid #d18819;
-  background-image: url(../images/notjustagrid/icons/icon-warning-large.png);
+  background-image: url(notjustagrid/icons/icon-warning-large.png);
   background-color: #FFFFCC;
   color: #660000; }
 
 .error {
   border: 2px solid #b04242;
-  background-image: url(../images/notjustagrid/icons/icon-error-large.png);
+  background-image: url(notjustagrid/icons/icon-error-large.png);
   background-color: #f6d4d7;
   color: #660000; }
 
 .success {
   border: 2px solid #459a2a;
-  background-image: url(../images/notjustagrid/icons/icon-success-large.png);
+  background-image: url(notjustagrid/icons/icon-success-large.png);
   background-color: #e0ffc7;
   color: #2a4f0b; }
 
 .question {
   border: 2px solid #637ec1;
-  background-image: url(../images/notjustagrid/icons/icon-question-large.png);
+  background-image: url(notjustagrid/icons/icon-question-large.png);
   background-color: #dde2ee;
   color: #2e52aa; }
 
@@ -127,7 +127,7 @@ div.pagescontainer {
     -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
     -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
     text-shadow: 0 1px 1px rgba(255, 255, 255, 0.8);
-    background: #cccccc url(../images/notjustagrid/misc/transoverlay-matte.png) repeat-x; }
+    background: #cccccc url(notjustagrid/misc/transoverlay-matte.png) repeat-x; }
   span {
     &.ghost, &.current {
       font: bold 12px "Trebuchet MS", Arial, Helvetica,sans-serif;
@@ -152,7 +152,7 @@ div.pagescontainer {
       -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
       -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
       text-shadow: 0 1px 1px rgba(255, 255, 255, 0.8);
-      background: #cccccc url(../images/notjustagrid/misc/transoverlay-matte.png) repeat-x; } }
+      background: #cccccc url(notjustagrid/misc/transoverlay-matte.png) repeat-x; } }
   a {
     &:hover, &:active {
       background-color: #afc243;
